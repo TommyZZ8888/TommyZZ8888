@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{https://github.com/TommyZZ8888/TommyZZ8888.git}}
+          github_user_name: TommyZZ8888
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
